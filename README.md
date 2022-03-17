@@ -4,7 +4,7 @@ This challenge was solved for Adaptive Code. In the following [Figma](https://ww
 
 ## Option 1 - Execute from the web:
 
-- [go to deployed app](link)
+- [go to deployed app](https://adaptive-code-challenge.vercel.app/)
 
 ## Option 2 - Execute locally:
 
